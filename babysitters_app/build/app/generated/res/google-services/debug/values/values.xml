@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">732047616723-2tbvb66lv80svhcan2r0lfgese2c48g5.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">732047616723</string>
+    <string name="google_api_key" translatable="false">AIzaSyDZr8OTXzh3cAQZLwyMra4BO10AaXMJA-Q</string>
+    <string name="google_app_id" translatable="false">1:732047616723:android:6e56f5dc1ee015483b8226</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDZr8OTXzh3cAQZLwyMra4BO10AaXMJA-Q</string>
+    <string name="google_storage_bucket" translatable="false">projectbabys.appspot.com</string>
+    <string name="project_id" translatable="false">projectbabys</string>
+</resources>
